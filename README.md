@@ -13,7 +13,7 @@
 Approximately 11 hours  .
 ### Project Description:
 
-#Exploratory Data Analysis (EDA): Comprehensive EDA provided valuable insights into the data. Significant relationships were found between certain predictor variables and the outcome variable (diabetes). Variables like glucose level, age, and BMI were found to have strong correlation with the diabetes outcome.
+#Exploratory Data Analysis (EDA): Comprehensive EDA provided valuable insights into the data. Significant relationships were found between certain predictor variables and the outcome variable (diabetes). Variables like glucose level, bloodPressure, and BMI were found to have strong correlation with the diabetes outcome.
 
 #Data Preprocessing: The dataset was successfully cleaned and preprocessed. This involved handling missing values, detecting and removing outliers, scaling and normalization of features, and handling imbalanced classes through oversampling strategy.
 
