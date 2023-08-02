@@ -3,11 +3,11 @@
 ## Project Outcomes
 
 1-Exploratory Data Analysis (EDA)
-2-Data Preprocessing
-3-Model Development and Evaluation
-4-Model Optimization
-5-Insights and Findings
-6-Future Directions:
+2-Data Preprocessing 
+3-Model Evaluation
+4-Insights and Findings
+5-Conclusion
+
 
 ### Duration:
 Approximately 11 hours  .
